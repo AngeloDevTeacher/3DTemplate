@@ -17,7 +17,7 @@ This is a Unity quickstart template for Unity Version 2021.3.15f1: [Unity Archiv
 - Added Input System version 1.5.1 - Version 1.5.1 contains better use documentation, and can be followed straight from the Unity Editor.
 - Added NavMeshAgents version 1.1.3 - Version 1.1.3 contains better documentaion and interface in the Unity Editor.
 ### Modified:
-- Color Space is Linear instead of default.
+- Color Space is Linear instead of Gamma.
 - Resolution is 1920 by 1080 by default for the Unity Player.
 - Company and Product changed from default:
   - This is for ease of marking/file tracking.
